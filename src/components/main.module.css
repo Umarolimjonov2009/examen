@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.ota2 {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+button {
+  padding: 20px 40px;
+  background-color: inherit;
+  border: 1px solid #00000080;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+}
+.ota36{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
+}
